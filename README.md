@@ -1,5 +1,4 @@
 # Star Symbols
-<a href="https://github.com/rust-secure-code/safety-dance/"><img src="https://camo.githubusercontent.com/a3785b859e346cc8ef5a9deb5359d841cc68fb3c66f9cada6326037a89af902d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f756e736166652d666f7262696464656e2d737563636573732e737667" alt="unsafe forbidden" data-canonical-src="https://img.shields.io/badge/unsafe-forbidden-success.svg" style="max-width: 100%;"></a>
 ## Copy and Paste Star Symbols
 
 Copy and paste star symbols on mac, laptop, tablet, smartphone, or PC with one click from symbol keyboard.
