@@ -2,7 +2,7 @@
 ## Copy and Paste Star Symbols
 List of star symbols for you to copy and paste.
 
-Copy and paste Star symbols on mac, laptop, tablet, smartphone, or PC with one click from symbolkeyboard.com.
+Copy and paste star symbols on mac, laptop, tablet, smartphone, or PC with one click from symbolkeyboard.com.
 ### ⭐ White Medium Star
 ### ★ Black Star
 ### ☆ White Star
