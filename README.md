@@ -1,5 +1,5 @@
 # Star Symbols
-[![Symbols](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/symbolkeyboard/symbols)
+[![made-with-SymbolKeyboard](https://img.shields.io/badge/Made%20with-Markdown-111111.svg)](http://commonmark.org)
 ## Copy and Paste Star Symbols
 
 Copy and paste star symbols on mac, laptop, tablet, smartphone, or PC with one click from symbol keyboard.
