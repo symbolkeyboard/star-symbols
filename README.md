@@ -1,5 +1,5 @@
 # Star Symbols
-[![Generic badge](https://img.shields.io/badge/Made-with-SymbolKeyboad-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Made-SymbolKeyboad-<COLOR>.svg)](https://shields.io/)
 ## Copy and Paste Star Symbols
 
 Copy and paste star symbols on mac, laptop, tablet, smartphone, or PC with one click from symbol keyboard.
