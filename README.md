@@ -1,4 +1,5 @@
 # Star Symbols
+[![Generic badge](https://img.shields.io/badge/github-black.svg)](https://shields.io/)
 ## Copy and Paste Star Symbols
 
 Copy and paste star symbols on mac, laptop, tablet, smartphone, or PC with one click from symbol keyboard.
