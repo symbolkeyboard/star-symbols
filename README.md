@@ -1,4 +1,5 @@
 # Star Symbols
+[GitHub Pages](https://pages.github.com/)
 ## Copy and Paste Star Symbols
 
 Copy and paste star symbols on mac, laptop, tablet, smartphone, or PC with one click from symbol keyboard.
