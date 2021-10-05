@@ -1,7 +1,7 @@
 # Star Symbols
-[![text symbols](https://img.shields.io/badge/github-symbols-green.svg)](https://github.com/symbolkeyboard/symbols)
-[![star symbols](https://img.shields.io/badge/copy-symbols/star-blue.svg)](https://symbolkeyboard.com/symbols/star)
+[![star symbols](https://img.shields.io/badge/symbols-star-blue.svg)](https://symbolkeyboard.com/symbols/star)
 [![copy and paste symbols](https://img.shields.io/badge/source-symbolkeyboad.com-orange.svg)](https://symbolkeyboard.com)
+[![text symbols](https://img.shields.io/badge/github-symbols-green.svg)](https://github.com/symbolkeyboard/symbols)
 ## Copy and Paste Star Symbols
 
 Copy and paste star symbols on mac, laptop, tablet, smartphone, or PC with one click from symbol keyboard.
